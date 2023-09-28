@@ -1,4 +1,3 @@
-Return to: 20- Mostrando u...
 <html><head>
 <title> Como criar um formulário completo em HTML </title>
 <meta name="description" content="Aprenda a criar um site completo que usa formulários em HTML">
@@ -9,7 +8,7 @@ Return to: 20- Mostrando u...
 <h1> Bem vindo ao site HTML Progressivo</h1>
 <h2> Preencha o formulário abaixo para participar do curso de HTML &amp; CSS completo, online e grátis</h2><br>
 
-<form action="Script_do_Formulario.php" method="get">
+<form action="Script_do_Formulario.php????!!!" method="post">
 
 <!-- DADOS PESSOAIS-->
 <fieldset>
@@ -20,7 +19,7 @@ Return to: 20- Mostrando u...
 <label for="nome">Nome: </label>
 </td>
 <td align="left">
-<input type="text" name="email">
+<input type="text" name="nomezinho">
 </td>
 <td>
 <label for="sobrenome">Sobrenome: </label>
